@@ -1,0 +1,59 @@
+body{
+    background-image:url("assets/Images/backcalculator.jpg") ;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 60px;
+    
+}
+.text-center{
+    text-align:center;
+    background-color: brown;
+}
+.bg-blue{
+    background-color:aqua;
+}
+.mx-auto{
+    margin: auto;
+}
+.button{
+    padding:20px;
+    margin:0 3px;
+    border:3px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 65px;
+    background-color:transparent;
+    color: white;
+    font-size: 15px;
+}
+.flex{
+    display: flex;
+
+}
+.flex-col{
+    flex-direction: column;
+
+}
+.items-center{
+    align-items:center;
+    
+}
+.row{
+    margin:7px 0px;
+    
+
+}
+.row input{
+    width: 230px;
+    margin:0;
+    padding: 6px 30px;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-size: 15px;
+}
+.border-auto{
+    /* background-color: bisque; */
+    background-color: transparent;
+    width:400px;
+}
